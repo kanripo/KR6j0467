@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:05.974364
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:14
 #+TITLE: 阿吒薄俱元帥大將上佛陀羅尼經修行儀軌
 #+PROPERTY: CBETA_ID T21n1239
 #+PROPERTY: ID KR6j0467
